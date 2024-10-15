@@ -3,5 +3,5 @@ bool isOdd(int number) {
 }
 
 void main() {
-  print(isOdd(4));
+  print(isOdd(4)); // при зміні числа в душках міняється відповідь
 }
